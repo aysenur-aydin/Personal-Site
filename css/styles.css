@@ -137,5 +137,19 @@ a:hover {
 .copyright {
     color: #EAF6F6;
     font-size: 0.75rem;
-    padding: 25px 0;
+    padding-bottom: 20px;
+    margin-top: 0;
+}
+
+.flaticon {
+    margin: 0px 5px ;
+    font-size: 1rem;
+    text-decoration:underline;
+}
+
+.icon-descrition {
+    color: #EAF6F6;
+    font-size: 0.9rem;
+    margin-bottom: 0;
+    padding-top: 20px;
 }
